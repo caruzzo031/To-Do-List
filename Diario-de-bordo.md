@@ -1,7 +1,7 @@
 Dia 1
 
 *O que foi feito.
-- Criado repositorio. 
+-Criado repositorio. 
 -Primeiro commit.
 -Criação da arquivo README.md, Requisitos, planejamentos, diario de bordo e index.html.
 
