@@ -1,20 +1,18 @@
-Dia 1
+# Planejamento do Projeto
 
-*O que foi feito.
--Criado repositorio. 
--Primeiro commit.
--Criação da arquivo README.md, Requisitos, planejamentos, diario de bordo e index.html.
+## Objetivo do projeto
+Criar uma lista de tarefas simples para organizar atividades do dia a dia.
 
-*Dificuldades encontradas 
--Entendimento da atividade.
+## Funcionalidades planejadas
+- Exibir tarefas
+- Separar tarefas importantes
+- Organizar tarefas planejadas
+- Registrar tarefas do dia
 
+## Prazo de execução
+3 dias
 
-
-*Soluções aplicadas
--Pedir ajuda e colaboração de outros.
-
-
-
-
-*O que sera feito no proximo dia
--Finalização do projeto.
+## Tarefas diárias
+- Dia 1: criar repositório e estrutura inicial
+- Dia 2: organizar arquivos e melhorar a apresentação
+- Dia 3: revisar, atualizar documentação e finalizar
